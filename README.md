@@ -16,7 +16,7 @@ Built using:
 - **Top/Bottom Products**: Identify the most and least profitable products  
 
 ## 🖼️ Preview  
-![Dashboard Preview](dashboard-preview.png)  
+![Dashboard Preview](dashboard-preview.jpg)  
 *(Add a screenshot of your dashboard as `dashboard-preview.png` in the repo for this to show.)*
 
 ## 🚀 How to Use  
